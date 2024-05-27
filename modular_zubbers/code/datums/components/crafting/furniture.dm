@@ -45,3 +45,11 @@
 	)
 	result = /obj/item/sign/flag/pride/trans
 	category = CAT_FURNITURE
+
+/datum/crafting_recipe/lounge_chair
+	name = "Lounge Chair"
+	reqs = list(
+		/obj/item/stack/sheet/iron = 2,
+	)
+	result = /obj/structure/bed/lounge_chair
+	category = CAT_FURNITURE
