@@ -248,3 +248,22 @@ define_sanity_output.txt
 # ezdb
 /db/
 /config/ezdb.txt
+config/admins.txt
+config/awaymissionconfig.txt
+config/config.txt
+config/game_options.txt
+config/iceruinblacklist.txt
+config/jobconfig.toml
+config/lavaruinblacklist.txt
+config/logging.txt
+config/maps.txt
+config/spaceruinblacklist.txt
+config/bubbers/vetted_players.txt
+config/skyrat/skyrat_config.txt
+config/skyrat/veteran_players.txt
+config/skyrat/interactions/cheer.json
+config/skyrat/interactions/fistbump.json
+config/skyrat/interactions/handshake.json
+config/skyrat/interactions/headpat.json
+config/skyrat/interactions/highfive.json
+config/skyrat/interactions/pat.json
